@@ -56,3 +56,8 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
+
+#myChart {
+  border: 1px solid #000000;
+  background-color: rgb(255,255,255, 0.50);
+}
