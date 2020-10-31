@@ -1,11 +1,17 @@
 body {
-  font-size: 120%;
-  font-family: Arial;
+  font-size: 100%;
+  font-family: 'Passion One', cursive;
+  background-image: url(./images/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: 'Passion One', cursive;
 }
 
 table {
@@ -13,13 +19,14 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #000000;
   text-align: left;
   padding: 8px;
+  background-color: rgb(255,255,255, 0.25);
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: rgb(255,255,255, 0.25);
 }
 
 .error {
