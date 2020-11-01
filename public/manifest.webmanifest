@@ -3,13 +3,13 @@
     "short_name": "Budget Tracker",
     "icons": [
       {
-        "src": "/assets/icons/moneyicon192x192.png",
+        "src": "/icons/icon192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       }
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://fast-plains-48514.herokuapp.com/",
+    "start_url": "https://haunted-ghost-37252.herokuapp.com/",
     "display": "standalone"
   }
