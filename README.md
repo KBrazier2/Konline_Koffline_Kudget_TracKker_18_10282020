@@ -77,8 +77,7 @@ You may reach me at kylebrazier@gmail.com for further questions.
 <!-- https://fierce-basin-40849.herokuapp.com/ -->
 
 ## Screenshots
-<!-- ![screenshot1](./public/images/2020-10-25.png)
-![screenshot2](./public/images/2020-10-25_(1).png)
-![screenshot3](./public/images/2020-10-25_(2).png)
-![screenshot4](./public/images/2020-10-25_(3).png)
-![screenshot5](./public/images/2020-10-25_(4).png) -->
+![screenshot1](./public/images/2020-10-31.png)
+![screenshot2](./public/images/2020-10-31_(1).png)
+![screenshot3](./public/images/2020-10-31_(2).png)
+![gifshot1](./public/images/Untitled_Oct_31_2020_3_07_PM.gif)
